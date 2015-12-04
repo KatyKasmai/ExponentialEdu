@@ -1,5 +1,10 @@
-# 10xEducation
-10x Education Curriculum
+# 10x Education Model
+
+>## Why 10x Education?
+The nature of work, jobs, life and our plant has changed significantly since the standard schedule and curriculum of our education system was first conceptualized. Yet we continue to adopt the same model in our public schools despite our changing needs. As a result, many students are not prepared to face the challenges of our world and are leaving high schools without a sense of who they are and what they are capable of accomplishing.
+
+>The 10x Education model is a holistic approach to learning. While project-based, 10x Education encourages children to realize and work on problems they are passionate about and believe they can positively impact. This means that we don’t ask children “what do you want to be when you grow up”, but rather “what problem do you want to solve and what do you want to build now”. 
+
 
 ## Vision, Mission & Goals
 
