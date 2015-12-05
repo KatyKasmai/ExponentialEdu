@@ -1,5 +1,9 @@
 # 10x Education Model
 
+>10xEducation.org is an open source education framework for learning, solving and building. We are just getting started here, so the content is draft. We are currently working with public schools in Manhattan to pilot and implement, starting with 10x Moonshot Sprints (conducted by http://teamX.co).
+>>Content here is mirrored from: https://docs.google.com/document/d/1GDMB6QZvINxRpV8H4o0VjkfAWVEDlhOno_6dmnhdscs/edit?usp=sharing
+
+
 >## Why 10x Education?
 The nature of work, jobs, life and our plant has changed significantly since the standard schedule and curriculum of our education system was first conceptualized. Yet we continue to adopt the same model in our public schools despite our changing needs. As a result, many students are not prepared to face the challenges of our world and are leaving high schools without a sense of who they are and what they are capable of accomplishing.
 
