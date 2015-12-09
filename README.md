@@ -38,6 +38,13 @@ To shift the educational curriculum from one that prepares children for jobs to 
 2. Students should have regularly scheduled access to a makerspace where they can ideate, prototype and build against their research and other skills and knowledge they learn (see Appendix: Makerspace).
 3. Students are guided on how to work in high-impact teams and how to be an effective team member (see Appendix: High-Impact Teams).
 
+## Implementation
+**Uncover a problem**: At the start of each year, children from 1st grade through 12th grade are encouraged to think about problems in our world that they care about. This process may require several sessions of exploring in the classroom some of humanity's most difficult challenges, and then asking students to do some research at home with a parent or other trusted adult to dig more deeply in order to uncover the student’s passion. 
+
+**Ideate solutions**: Once the student has selected a problem area that they care about, the teacher guides the students through a Moonshot Sprint that will help them ideate and discover potential 10x solutions individually. Students that are working on related problem areas should be encouraged (but not forced) to collaborate and work on a project together.
+
+**Select a 10x project path**: The Moonshot Sprint will guide students in ensuring that their problem solution and project are at a 10x level. Once a final project vision is established, teachers guide the students into breaking the problem down into milestones and an initial pilot. The pilot version is what the student will spend the rest of the academic year prototyping.
+
 
 ## Appendix: Moonshot Sprint
 *details to follow*
