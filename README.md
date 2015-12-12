@@ -4,6 +4,8 @@
 
 >*Content here is mirrored from*: http://doc.10xEducation.org
 
+>*Slide Deck is here*: http://deck.10xeducation.org
+
 
 >## Why 10x Education?
 The nature of work, jobs, life and our plant has changed significantly since the standard schedule and curriculum of our education system was first conceptualized. Yet we continue to adopt the same model in our public schools despite our changing needs. As a result, many students are not prepared to face the challenges of our world and are leaving high schools without a sense of who they are and what they are capable of accomplishing.
