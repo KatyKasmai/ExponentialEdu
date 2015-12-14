@@ -133,6 +133,7 @@ To shift the educational curriculum from one that prepares children for jobs to 
 details to follow
 
 ## Appendix: Collaborating with Global Teams
+details to follow
 
 ## Appendix: Resources
 1. “Teamwork: What must go right / What can go wrong”. Larson, Carl E. and Frank M.J. LaFasto
