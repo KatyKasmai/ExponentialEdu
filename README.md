@@ -42,11 +42,13 @@ To shift the educational curriculum from one that prepares children for jobs to 
 
 ## Implementation
 **Uncover a problem**: At the start of each year, children from 1st grade through 12th grade are encouraged to think about problems in our world that they care about. This process may require several sessions of exploring in the classroom some of humanity's most difficult challenges, and then asking students to do some research at home with a parent or other trusted adult to dig more deeply in order to uncover the student’s passion. 
+>Here we will provide some content to help teachers and parents navigate conversations with students at school and at home in order to help them understand what sorts of problems humanity faces now and may in the future.
 
 **Ideate solutions**: Once the student has selected a problem area that they care about, the teacher guides the students through a Moonshot Sprint that will help them ideate and discover potential 10x solutions individually. Students that are working on related problem areas should be encouraged (but not forced) to collaborate and work on a project together.
 
 **Select a 10x project path**: The Moonshot Sprint will guide students in ensuring that their problem solution and project are at a 10x level. Once a final project vision is established, teachers guide the students into breaking the problem down into milestones and an initial pilot. The pilot version is what the student will spend the rest of the academic year prototyping.
 
+**Build a pilot of the 10x project**: Each student will create a project plan for their 10x project pilot. The project plan will include a list of materials needed and estimated costs, and will demonstrate the intention and use of each item. The project plan can then be presented to parents and local community through an event similar to a “Science Fair” where the student will “pitch” their 10x project plan and pilot in order to attract funding. Collected funds can be used by the students to purchase the materials for the pilot.
 
 ## Appendix: Moonshot Sprint
 *details to follow*
