@@ -137,3 +137,5 @@ details to follow
 
 ## Appendix: Resources
 1. “Teamwork: What must go right / What can go wrong”. Larson, Carl E. and Frank M.J. LaFasto
+2. Dan Meyer: Math class needs a makeover (https://www.ted.com/talks/dan_meyer_math_curriculum_makeover)
+3. Sugata Mitra: Build a School in the Cloud (http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud)
