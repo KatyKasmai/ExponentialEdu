@@ -55,6 +55,12 @@ There is a lot of emphasis on ensuring the child is pursuing a 10x Moonshot solu
 **Build a pilot of the 10x project**: Each student will create a project plan for their 10x project pilot. The project plan will include a list of materials needed and estimated costs, and will demonstrate the intention and use of each item. The 10x project and pilot plan can then be presented to parents and the local community through a "pitch" event where the student will demonstrate their intended value and impact in order to receive constructive feedback and attract "investor" funding. Collected funds can be used by the students to purchase the materials for their pilot project.
 
 ## Appendix: Moonshot Sprint
+
+1. Ideate on potential solutions quickly
+2. Graph the individual solutions
+3. Decide on the 10x Moonshot solution
+4. Prototype the solution on paper and identify milestones and the pilot
+
 *details to follow*
 
 ## Appendix: Makerspace
