@@ -64,6 +64,14 @@ There is a lot of emphasis on ensuring the child is pursuing a 10x Moonshot solu
 *details to follow*
 
 ## Appendix: Makerspace
+The Makerspace is a workshop that contains some basic building tools, craft and commodity items. This includes cardboard, glue, paint, and other crafty building items. The goal isn’t to have the most state of the art space with expensive items, but rather an open space where exploring, scrappy building and mistakes are welcome. 
+
+Any additional items in the Makerspace should come directly as a result of the bill of materials that the child has developed for their pilot project. They purchase the items from the money they have raised through the pitch event (see Appendix: Project Pitch Event) and work in the Makerspace to build either individually or with their team.
+
+There is also an opportunity to enhance the Makerspace with robot building commodity items, such as a basic dc motor, wires, switches, and other inexpensive high-utility items. The custodian of the Makerspace may obtain training to help children build basic circuits and robots of various capabilities for their pilot project. 
+
+The Brooklyn Robot Foundry offers Teacher-Training programs for exactly this purpose. Their robot camp and classes guide children in building robots through mechanical and electrical engineering basics. These types of learning experiences are extremely useful in helping the children decide on how to build their scrappy pilot projects and determine the types of materials they will need. Furthermore, this presents a great opportunity to integrate mathematics, physics, engineering, coding, and art education into the curriculum. 
+
 *details to follow*
 
 ## Appendix: High-Impact Teams
