@@ -74,6 +74,11 @@ The Brooklyn Robot Foundry offers Teacher-Training programs for exactly this pur
 
 *details to follow*
 
+## Appendix: Project Pitch Event
+The 10x project and pilot plan can then be presented to parents and the local community through a "pitch" event where the student will demonstrate their intended value and impact in order to receive constructive feedback and attract "investor" funding. Collected funds can be used by the students to purchase the materials for their pilot project.
+
+*details to follow*
+
 ## Appendix: High-Impact Teams
 *details to follow*
 
