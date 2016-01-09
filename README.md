@@ -22,33 +22,38 @@ Children growing up happy and fulfilled, and feeling driven to pursue their pass
 To shift the educational curriculum from one that prepares children for jobs to one that prepares children to solve problems they care about and build the solutions.
 
 #### Goals
-1. Orient the school year around a 10x idea and project that the child defines.
-2. A teacher's primary role becomes to guide children on how to break down their problems and solutions into milestones, how to research for potential solutions, and encourage children to fail fast and iterate.
-3. Subjects such as mathematics, computer science, reading, arts, etc. will orient themselves so as to demonstrate to children that what they are learning they can apply directly to enhancing their 10x projects.
+1. Orient the school year around a 10x idea and project that the child researches and defines.
+2. A teacher's primary role becomes to guide children on how to break down their problems and solutions into milestones, how to research for potential solutions, and encourage children to fail fast, iterate and keep going.
+3. Subjects such as mathematics, computer science, reading, arts, etc. will orient themselves so as to demonstrate to children that what they are learning can be directly applied to enhancing their 10x projects.
 
 ## Principles
 
 - Start with a 10x Moonshot Sprint (see Appendix: Moonshot Sprint).
-- Think 10x but then break the problem down into milestones and pilot projects.
+- Think 10x but then break the problem down into milestones and a pilot project.
 - Pursue solving problems that you are passionate about.
 - You must fail often and fail fast.
 - Positive collaboration means saying “Yes, And!” to your teammates and yourself.
 - Research to find the existing solutions and develop better ones.
 - No project is ever final and done.
 
-1. Teachers are guides for children to use skills they will always need, such as problem-solving and teamwork. Teachers can not be expected to be the harbors of all information, it’s just not a scalable solution. At the rate at which information is growing and changing, no one person can keep up fast enough to continuously and consistently disseminate the information to students. Students need to learn how to find the information they need, usually by learning to navigate the internet and interview relevant subject matter experts, and then apply and test the material against their projects.
-2. Students should have regularly scheduled access to a makerspace where they can ideate, prototype and build against their research and other skills and knowledge they learn (see Appendix: Makerspace).
-3. Students are guided on how to work in high-impact teams and how to be an effective team member (see Appendix: High-Impact Teams).
+1. Teachers are guides for children to use skills they will always need, such as problem-solving and teamwork. Teachers can not be expected to be the harbors of all information as this would not be a scalable solution. At the rate at which information is growing and changing, no one person can keep up fast enough to continuously and consistently disseminate the information to students. 
+2. Students need to learn how to research to find the relevant information they need, usually by navigating the internet and interviewing relevant subject matter experts, and then applying and testing the material directly against their projects.
+3. Students should have regularly scheduled access to a makerspace where they can ideate, prototype and build with their research and other skills and knowledge they have acquired(see Appendix: Makerspace).
+4. Students are guided on how to work in high-impact teams and how to be an effective team member (see Appendix: High-Impact Teams).
 
 ## Implementation
 **Uncover a problem**: At the start of each year, children from 1st grade through 12th grade are encouraged to think about problems in our world that they care about. This process may require several sessions of exploring in the classroom some of humanity's most difficult challenges, and then asking students to do some research at home with a parent or other trusted adult to dig more deeply in order to uncover the student’s passion. 
 >Here we will provide some content to help teachers and parents navigate conversations with students at school and at home in order to help them understand what sorts of problems humanity faces now and may in the future.
 
-**Ideate solutions**: Once the student has selected a problem area that they care about, the teacher guides the students through a Moonshot Sprint that will help them ideate and discover potential 10x solutions individually. Students that are working on related problem areas should be encouraged (but not forced) to collaborate and work on a project together.
+There is a lot of emphasis on ensuring the child is pursuing problem areas and solutions they are passionate about because 10x solutions require patience and perseverance, which can only come from a place of passion. If we find the child is giving up on the pursuit early on, then it is most likely that this was not a problem/solution they were truly passionate about, and the child requires additional guidance in discovering other options. 
 
-**Select a 10x project path**: The Moonshot Sprint will guide students in ensuring that their problem solution and project are at a 10x level. Once a final project vision is established, teachers guide the students into breaking the problem down into milestones and an initial pilot. The pilot version is what the student will spend the rest of the academic year prototyping.
+**Ideate solutions**: Once the student has selected a problem area that they care about, the teacher guides the children through a Moonshot Sprint that will help them ideate and discover potential 10x solutions individually. Children that are working on related problem areas should be encouraged (but not forced) to collaborate and work on a project together.
 
-**Build a pilot of the 10x project**: Each student will create a project plan for their 10x project pilot. The project plan will include a list of materials needed and estimated costs, and will demonstrate the intention and use of each item. The project plan can then be presented to parents and local community through an event similar to a “Science Fair” where the student will “pitch” their 10x project plan and pilot in order to attract funding. Collected funds can be used by the students to purchase the materials for the pilot.
+There is a lot of emphasis on ensuring the child is pursuing a 10x Moonshot solution. Moonshots and 10x thinking are themselves a source of energy and excitement, and they tend to attract a greater force of pursuit. As we get older, we start to feel discouraged from pursuing audacious and radical solutions, but children are unbridled and Exponential Education aims to cultivate and nurture this important quality and mindset. 
+
+**Select a 10x project path**: The Moonshot Sprint will guide students in ensuring that their problem solution and project are at a 10x level or greater. Once a final project vision is established, teachers guide the students into breaking the problem down into milestones and an initial pilot. The pilot is what the student will spend the rest of the academic year prototyping.
+
+**Build a pilot of the 10x project**: Each student will create a project plan for their 10x project pilot. The project plan will include a list of materials needed and estimated costs, and will demonstrate the intention and use of each item. The 10x project and pilot plan can then be presented to parents and the local community through a "pitch" event where the student will demonstrate their intended value and impact in order to receive constructive feedback and attract "investor" funding. Collected funds can be used by the students to purchase the materials for their pilot project.
 
 ## Appendix: Moonshot Sprint
 *details to follow*
