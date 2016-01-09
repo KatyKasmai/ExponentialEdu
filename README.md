@@ -35,11 +35,10 @@ To shift the educational curriculum from one that prepares children for jobs to 
 - Positive collaboration means saying “Yes, And!” to your teammates and yourself.
 - Research to find the existing solutions and develop better ones.
 - No project is ever final and done.
-
-1. Teachers are guides for children to use skills they will always need, such as problem-solving and teamwork. Teachers can not be expected to be the harbors of all information as this would not be a scalable solution. At the rate at which information is growing and changing, no one person can keep up fast enough to continuously and consistently disseminate the information to students. 
-2. Students need to learn how to research to find the relevant information they need, usually by navigating the internet and interviewing relevant subject matter experts, and then applying and testing the material directly against their projects.
-3. Students should have regularly scheduled access to a makerspace where they can ideate, prototype and build with their research and other skills and knowledge they have acquired(see Appendix: Makerspace).
-4. Students are guided on how to work in high-impact teams and how to be an effective team member (see Appendix: High-Impact Teams).
+- Teachers are guides for children to use skills they will always need, such as problem-solving and teamwork. Teachers can not be expected to be the harbors of all information as this would not be a scalable solution. At the rate at which information is growing and changing, no one person can keep up fast enough to continuously and consistently disseminate the information to students. 
+- Students need to learn how to research to find the relevant information they need, usually by navigating the internet and interviewing relevant subject matter experts, and then applying and testing the material directly against their projects.
+- Students should have regularly scheduled access to a makerspace where they can ideate, prototype and build with their research and other skills and knowledge they have acquired(see Appendix: Makerspace).
+- Students are guided on how to work in high-impact teams and how to be an effective team member (see Appendix: High-Impact Teams).
 
 ## Implementation
 **Uncover a problem**: At the start of each year, children from 1st grade through 12th grade are encouraged to think about problems in our world that they care about. This process may require several sessions of exploring in the classroom some of humanity's most difficult challenges, and then asking students to do some research at home with a parent or other trusted adult to dig more deeply in order to uncover the student’s passion. 
