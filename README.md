@@ -1,11 +1,13 @@
 # Exponential Education Curriculum
 
->Exponential Education (10xEducation.org) *is an open source education framework for learning, solving and building. We are just getting started here, so the content is draft. We are currently working with public schools in Manhattan to pilot and implement, starting with 10x Moonshot Sprints (conducted by http://teamX.co)*.
+#### Intro
+>Exponential Education (10xEducation.org) *is an open source education framework for learning, solving and building. We are currently in the development and pilot stage, so all of the content are drafts. We are currently working with public schools in Manhattan to pilot and implement, starting with 10x Moonshot Sprints (developed by http://teamX.co)*.
 
 >*Content here is mirrored from*: http://doc.10xEducation.org
 
 >*Slide Deck is here*: http://deck.10xeducation.org
 
+>*Sign-up for updates via mailing list*: http://eepurl.com/bLN9xD
 
 >## Why 10x Education?
 The nature of work, jobs, life and our plant has changed significantly since the standard schedule and curriculum of our education system was first conceptualized. Yet we continue to adopt the same model in our public schools despite our changing needs. As a result, many students are not prepared to face the challenges of our world and are leaving high schools without a sense of who they are and what they are capable of accomplishing.
