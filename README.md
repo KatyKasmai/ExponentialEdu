@@ -1,7 +1,7 @@
 # Exponential Education (#10xEdu)
 
 #### Intro
->Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building. We are currently in the development and pilot stage and the content is draft. We are currently working with public schools in Manhattan to pilot and implement, starting with 10x Moonshot Sprints (developed by http://teamX.co)*.
+>Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building. We are currently in the development and pilot stage and the content is draft. We are currently working with public schools in Manhattan to pilot and implement, starting with 10x Moonshot Sprints (developed by http://TeamExponent.com)*.
 
 >*Content here is mirrored from*: http://doc.10xEducation.org
 
