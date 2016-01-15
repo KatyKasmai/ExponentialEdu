@@ -3,7 +3,7 @@
 #### Intro
 >Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building through 10x Moonshot thinking and projects. The curriculum is centered around Moonshot Sprints, which encourages children to realize and build 10x solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through 10x thinking and Moonshot Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
 
->*We are currently in the development and pilot stage and the content is draft. We are currently working with schools and programs in New York City to pilot and implement, starting with 10x Moonshot Sprints (developed by http://TeamExponent.com)*.
+>*We are currently in the development and pilot stage and the content is draft. We are working with schools and programs in New York City to pilot and implement, starting with 10x Moonshot Sprints (developed by http://TeamExponent.com)*.
 
 >*Content here is mirrored from*: http://doc.10xEducation.org
 
