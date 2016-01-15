@@ -1,7 +1,9 @@
 # Exponential Education (#10xEdu)
 
 #### Intro
->Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building. We are currently in the development and pilot stage and the content is draft. We are currently working with public schools in Manhattan to pilot and implement, starting with 10x Moonshot Sprints (developed by http://TeamExponent.com)*.
+>Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building through 10x Moonshot thinking and projects. The curriculum is centered around Moonshot Sprints, which encourages children to realize and build 10x solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through 10x thinking and Moonshot Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
+
+*We are currently in the development and pilot stage and the content is draft. We are currently working with schools and programs in New York City to pilot and implement, starting with 10x Moonshot Sprints (developed by http://TeamExponent.com)*.
 
 >*Content here is mirrored from*: http://doc.10xEducation.org
 
@@ -9,10 +11,12 @@
 
 >*Sign-up for updates via mailing list*: http://eepurl.com/bLN9xD
 
+>*Related article*: _"Kids can build our most impactful 10x Moonshots"_ (https://medium.com/@katykasmai/kids-can-build-our-most-impactful-10x-moonshots-5af1480ee7f8#.1ceoo3av3)
+
 >## Why 10x Education?
 The nature of work, jobs, life and our plant has changed significantly since the standard schedule and curriculum of our education system was first conceptualized. Yet we continue to adopt the same model in our public schools despite our changing needs. As a result, many students are not prepared to face the challenges of our world and are leaving high schools without a sense of who they are and what they are capable of accomplishing.
 
->The 10x Education model is a holistic approach to learning. While project-based, 10x Education encourages children to realize and work on problems they are passionate about and want to positively impact. This means that we don’t ask children “what do you want to be when you grow up”, but rather “what problem do you want to solve and what do you want to build now”. 
+>The 10x Education model is a holistic approach to learning. While project-based, 10x Education encourages children to realize and work on problems they are passionate about and want to positively impact. This means that we don’t ask children _“what do you want to be when you grow up”_, but rather _“what problem do you want to solve and what do you want to build now”_. 
 
 
 ## Vision, Mission & Goals
