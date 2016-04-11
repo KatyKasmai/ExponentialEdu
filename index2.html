@@ -29,8 +29,10 @@
 
       <md-toolbar layout="row" class="md-primary">
             <!--<md-button ng-click="toggleLeft()" class="md-white" ><i class="material-icons">menu</i></md-button>-->
-            <div class="logo"></section><a href="http://teamexponent.com" target="new"><img src="images/teamexponent-logo-txt-white.png" alt="logo" width="300" border=0></a></div>
+            <div class="logo"><a href="http://teamexponent.com" target="new"><img src="images/exponentialeducation-logo-txt-white-1550x.png" alt="logo" width="300" border=0></a></div>
       </md-toolbar>
+      
+      <div class="top-menu"><a href="#learnmore">Learn More</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#seeit">See It</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#community">Community</a></div>
 
       <section layout="row" flex="">
 
@@ -52,9 +54,7 @@
         <div class="main" layout="column" layout-fill="" layout-align="top center">
 
               <section class="introtext">
-                We believe in the potential of 
-                <br>10<sup>x</sup> Moonshot ideas and high-impact teams 
-                <br>to help us solve our toughest challenges.
+
               </section>
               
               <!--<div style="width: 400px; margin-left:auto; margin-right:auto">-->
@@ -91,7 +91,7 @@
         <div layout="column" style="padding-bottom: 15px;">
           <md-toolbar class="md-accent">
             <div class="md-toolbar-tools">
-              <h2 class="md-flex">What We Do</h2>
+              <h2 class="md-flex">What is...</h2>
             </div>
           </md-toolbar>
           <md-content layout-padding style="padding: 15px;text-align:center;">
@@ -100,46 +100,10 @@
                 <table class="whatwedoTable">
                     <tr>
                         <td colspan="3">
-                          <h2>Team Exponent helps solve the Engineer's Dilemma: 
-                          <br>discovering meaningful projects to work on. 
-                          <br>
-                          <br>We activate technical talent to innovate transformative 
-                          <br>and impactful high tech solutions, driven by passion. 
-                          <br>We do this work through teams, and it starts with a Moonshot Sprint.</h2>
                         </td>
                     </tr>
                     <tr>
-                        <td><img src="images/photo-moonshot.png" class="face" height="200"></td>
-                        <td><img src="images/photo-teams.png" class="face" height="200"></td>
-                        <td><img src="images/photo-sprint3.png" class="face" height="200"></td>
-                    </tr>
-                    <tr>
-                        <td><b><h2>10<sup>x</sup> IDEAS</h2></b></td>
-                        <td><b><h2>HIGH-IMPACT TEAMS</h2></b></td>
-                        <td><b><h2>SPRINTS</h2></b></td>
-                    </tr>
-                    <tr>
                         <td colspan="3">
-                            <h3><i>Moonshot</i> is not just another way of saying big idea. 
-                            <br>It's a project that addresses a <b>huge problem</b>, proposes a 
-                            <br><b>high-value and impactful solution</b>, and has a high-level of 
-                            <br><b>technical complexity in implementation</b>. It takes a particular 
-                            <br>type of fresh, audacious thinking to even conceive of a moonshot, 
-                            <br>and an amazing team with passionate members to go for it. 
-                            <br>This is what we create with you.
-                            <br><br>
-                            Similarly, <i>sprint</i> doesn't just mean moving as fast as possible. 
-                            <br>As with running, there is technique and muscles which can be methodically trained. 
-                            <br><br>
-                            <h2><b>Our Moonshot Sprints are exhilarating and immersive one day sessions</b>
-                            <br><b>proven to generate moonshot ideas and transformative start-ups</b>.</h2>
-                            <br>We tailor this methodology to various challenges facing humanity and 
-                            <br>bring together the technical talent to ideate and prototype potential solutions.
-                            <br>
-                            <br>Team Exponent, Inc. is an organization inspiring 10x Moonshot thinking and education.
-                            </h3>
-                            <br>
-                            <h4>Learn about how we are taking 10x Moonshot thinking to K-12 education with our open source <a href="http://10xEducation.org" target="new">Exponential Education</a> curriculum.</h4>
                         </td>
                     </tr>
                 </table>
@@ -152,17 +116,13 @@
         <div layout="column" style="padding-bottom: 15px;">
           <md-toolbar class="md-primary">
             <div class="md-toolbar-tools">
-              <h2 class="md-flex"></h2>
+              <h2 class="md-flex">Pick a package</h2>
             </div>
           </md-toolbar>
           <md-content layout-padding style="padding:5px;text-align:center;">
             <md-card>
               <md-card-content>
                 <div >
-                  <img src="images/events/2.jpg" width="250" height="175">
-                  <img src="images/events/5.jpg" width="250" height="175">
-                  <img src="images/events/3.jpg" width="250" height="175">
-                  <img src="images/events/6.jpg" width="250" height="175">
                 </div>
                 <div layout="row">
                   <!--<img src="images/events/8.jpg" width="250" height="175">-->
@@ -180,7 +140,7 @@
         <div layout="column" style="padding-bottom: 15px;">
           <md-toolbar class="md-primary">
             <div class="md-toolbar-tools">
-              <h2 class="md-flex">Our Team</h2>
+              <h2 class="md-flex">More...</h2>
             </div>
           </md-toolbar>
           <md-content layout-padding style="padding: 24px;text-align:center;">
@@ -205,49 +165,6 @@
         </div>
 
 
-        
-        <div layout="column" style="padding-bottom: 15px;">
-          <md-toolbar class="md-primary">
-            <div class="md-toolbar-tools">
-              <h2 class="md-flex">Upcoming & Past Events</h2>
-              <a name="events"></a>
-            </div>
-          </md-toolbar>
-          <md-content layout-padding style="padding: 24px;">
-
-            <md-list>
-              <md-list-item class="md-3-line" ng-repeat="item in events">
-                <div class="md-list-item-text">
-                  <h2>{{item.what}}</h2>
-                  <h3>{{item.when}}</h3>
-                  <h4>{{item.where}}</h4>
-                  <p>{{item.notes}}</p>
-                  <a ng-href={{item.linkaddress}} target="new">{{item.linktext}}</a>
-                </div>
-                <md-divider md-inset ng-if="!$last"></md-divider>
-              </md-list-item>
-            </md-list>
-            
-          </md-content>
-
-          <!--<md-content layout-padding style="min-height:250px;padding: 24px;max-width:800px;text-align:center">-->
-          <!--  <md-card>-->
-          <!--    <md-card-content>-->
-          <!--      <h2>Event Sponsors</h2>-->
-          <!--        <div ng-repeat="item in sponsors">-->
-          <!--          <div >-->
-          <!--            <img ng-src="{{item.sponsor1}}?{{$index}}" height="70" class="sponsorimg" alt="{{item.sponsor1name}}">-->
-          <!--            <img ng-src="{{item.sponsor2}}?{{$index}}" height="100" class="sponsorimg" alt="{{item.sponsor2name}}">-->
-          <!--            <img ng-src="{{item.sponsor3}}?{{$index}}" height="70" class="sponsorimg" alt="{{item.sponsor3name}}">-->
-          <!--          </div>-->
-          <!--        </div>-->
-          <!--    </md-card-content>-->
-          <!--  </md-card>-->
-          <!--</md-content>-->
-
-        </div>
-
-    
         <div layout="column" style="padding-bottom: 15px;">
           <md-toolbar class="md-primary">
             <div class="md-toolbar-tools">

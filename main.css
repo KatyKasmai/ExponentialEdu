@@ -85,6 +85,23 @@ md-input-container .md-input {
   position: absolute;
   margin-left:40px;
   margin-top:10px;
+
+  z-index: 9;
+}
+
+.top-menu {
+  position: absolute;
+  margin-top:-45px;
+  margin-left:750px;
+
+	font-family: 'RobotoDraft';
+	font-weight:100;
+	font-size:18px;
+	z-index: 9;
+}
+
+.top-menu a{
+	color: #fff;
   
 }
 
