@@ -125,12 +125,49 @@ md-input-container .md-input {
 .whatwedoTable {
   margin-left:auto;
   margin-right:auto;
-  text-align:center;
 }
 
 .whatwedoTable td {
+  text-align:justify;
+  padding-top:10px;
+  padding-right:50px;
+  padding-left:50px;
+  line-height:150%;
+  color: #616161;
+}
+
+.whatwedoTableTitle {
+  text-align:left;
+  font-size:20px;
+  font-weight:800;
+}
+
+.pickclasspackageDiv {
+  background-color: #00BCD4;
+  padding:30px;
+  color: #fff;
   text-align:center;
+}
+
+.pickclasspackageTitle {
+  font-size:30px;
+}
+.pickclasspackageTable {
+  margin-left:auto;
+  margin-right:auto;
+
   padding:20px;
+  border-spacing: 20px;
+  text-align:center;
+  height:350px;
+}
+
+.pickclasspackageTable td {
+  background-color: #FF9100;
+  color: #fff;
+  font-size:90px;
+  font-weight:800;
+  width:250px;
 }
 
 .sponsorimg {
