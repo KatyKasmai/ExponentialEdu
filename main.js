@@ -1,14 +1,16 @@
 angular.module('MyApp', ['ngMaterial'])
 
-
 /*Color Themes*/
 .config(function($mdThemingProvider) {
   $mdThemingProvider.theme('default')
     .primaryPalette('cyan')
-    .accentPalette('orange');
+    .accentPalette('grey');
 })
 
-  .controller('AppCtrl', function ($scope, $timeout, $mdSidenav, $mdUtil, $log) {
+  .controller('AppCtrl', function ($scope, $timeout, $mdSidenav, $mdUtil, $log, $mdDialog, $mdMedia) {
+
+    $scope.status = '  ';
+    $scope.customFullscreen = $mdMedia('xs') || $mdMedia('sm');
 
     $scope.toggleLeft = buildToggler('left');
     $scope.toggleRight = buildToggler('right');
@@ -28,6 +30,24 @@ angular.module('MyApp', ['ngMaterial'])
 
       return debounceFn;
     }
+    
+// DIALOGS
+    $scope.showAdvanced = function(ev) {
+    var useFullScreen = ($mdMedia('sm') || $mdMedia('xs'))  && $scope.customFullscreen;
+    $mdDialog.show({
+      controller: DialogController,
+      templateUrl: 'dialog1.tmpl.html',
+      parent: angular.element(document.body),
+      targetEvent: ev,
+      clickOutsideToClose:true,
+      fullscreen: useFullScreen
+    });
+    $scope.$watch(function() {
+      return $mdMedia('xs') || $mdMedia('sm');
+    }, function(wantsFullScreen) {
+      $scope.customFullscreen = (wantsFullScreen === true);
+    });
+  };
 
 // UPCOMING EVENTS LIST
     $scope.events = [{

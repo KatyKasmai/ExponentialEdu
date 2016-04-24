@@ -37,12 +37,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a { color: #00BCD4;
-    text-decoration: none
-  
+    text-decoration: none;
+   -webkit-transition: all .8s ease;
+    transition: all .8s ease;
 }
 
 a:hover {
-  color: #3c83f9;
+  color: #EF6C00;
   text-decoration: none;
 }
 
@@ -102,8 +103,36 @@ md-input-container .md-input {
 
 .top-menu a{
 	color: #fff;
-  
 }
+
+.top-menu td {
+  padding: 0 20px 0 20px;
+}
+
+.top-menu ul {
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  -webkit-padding-start: 0px;
+}
+
+.top-social li {
+  display: inline-block;
+  padding-right: .8em;
+}
+
+.top-menu a {
+  display: block;
+  color: #fff;
+  font-size: 20px;
+  font-weight:100;
+  -webkit-transition: all .8s ease;
+  transition: all .8s ease;
+}
+
+.top-menu a:hover {
+  color: #FF9100;
+}
+
 
 .introtext {
 	text-align:center;
@@ -170,21 +199,89 @@ md-input-container .md-input {
   width:250px;
 }
 
-.sponsorimg {
-  padding-right:20px;
-  padding-bottom:20px;
+.pickclasspackageDiv a {
+  color:#fff;
+  text-decoration: none;
+ -webkit-transition: all .8s ease;
+  transition: all .8s ease;
 }
 
-.ourteam {
-  min-width:100px;
-  max-width:350px;
+.pickclasspackageDiv a:hover {
+  color: #00BCD4;
+  text-decoration: none;
+}
+
+.moreinfo {
+  margin-left:auto; 
+  margin-right:auto; 
   text-align:center;
-  display:inline-block;
 }
 
-.face {
-  border-radius:100px;
-  margin-left:auto;
-  margin-right:auto;
+.moreinfo td {
+  width:50%;
+  padding:20px;
 }
+
+.moreinfo h1 {
+  font-size:50px;
+  font-weight:100;
+}
+
+.subscribe {
+  position: relative;
+  display: inline-block;
+  margin-left:auto; 
+  margin-right:auto; 
+  text-align:center;
+}
+
+.subscribe td{
+  margin-left:auto; 
+  margin-right:auto; 
+  text-align:center;
+}
+
+.subscribeTD1 {
+  width:350px;
+  color:#fff;
+}
+
+.footer {
+  margin-left:auto; 
+  margin-right:auto; 
+  text-align:center;
+  
+}
+
+.social li {
+  display: inline-block;
+  padding-right: .8em;
+}
+
+.social li a {
+  display: block;
+  color: #616161;
+  font-size: 50px;
+  -webkit-transition: all .8s ease;
+  transition: all .8s ease;
+}
+
+.social li a:hover {
+  color: #00BCD4;
+}
+
+ 
+ /*.ourteam {*/
+/*  min-width:100px;*/
+/*  max-width:350px;*/
+/*  text-align:center;*/
+/*  display:inline-block;*/
+/*}*/
+
+/*.face {*/
+/*  border-radius:100px;*/
+/*  margin-left:auto;*/
+/*  margin-right:auto;*/
+/*}*/
+
 
