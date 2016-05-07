@@ -35,6 +35,7 @@
 
 .material-icons.md-light { color: rgba(255, 255, 255, 1); }
 .material-icons.orange600 { color: #FB8C00; }
+.material-icons.blue600 { color: #003263; }
 .material-icons.md-48 { font-size: 48px; }
 
 h1,h2,h3,h4,h5,h6 { 
@@ -177,7 +178,7 @@ md-input-container .md-input {
 }
 
 .pickclasspackageDiv {
-  background-color: #00BCD4;
+  background-color: #003263;
   padding:30px;
   color: #fff;
   text-align:center;
