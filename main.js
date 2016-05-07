@@ -7,7 +7,7 @@ angular.module('MyApp', ['ngMaterial'])
     .accentPalette('grey');
 })
 
-  .controller('AppCtrl', function ($scope, $timeout, $mdSidenav, $mdUtil, $log, $mdDialog, $mdMedia) {
+.controller('AppCtrl', function ($scope, $timeout, $mdSidenav, $mdUtil, $log, $mdDialog, $mdMedia) {
 
     $scope.status = '  ';
     $scope.customFullscreen = $mdMedia('xs') || $mdMedia('sm');
@@ -30,24 +30,38 @@ angular.module('MyApp', ['ngMaterial'])
 
       return debounceFn;
     }
-    
+
+//Defining DialogController    
+    function DialogController($scope, $mdDialog) {
+      $scope.hide = function() {
+        $mdDialog.hide();
+      };
+      $scope.cancel = function() {
+        $mdDialog.cancel();
+      };
+      $scope.answer = function(answer) {
+        $mdDialog.hide(answer);
+      };
+    }
+
 // DIALOGS
     $scope.showAdvanced = function(ev) {
-    var useFullScreen = ($mdMedia('sm') || $mdMedia('xs'))  && $scope.customFullscreen;
-    $mdDialog.show({
-      controller: DialogController,
-      templateUrl: 'dialog1.tmpl.html',
-      parent: angular.element(document.body),
-      targetEvent: ev,
-      clickOutsideToClose:true,
-      fullscreen: useFullScreen
-    });
-    $scope.$watch(function() {
-      return $mdMedia('xs') || $mdMedia('sm');
-    }, function(wantsFullScreen) {
-      $scope.customFullscreen = (wantsFullScreen === true);
-    });
-  };
+      var useFullScreen = ($mdMedia('sm') || $mdMedia('xs'))  && $scope.customFullscreen;
+      $mdDialog.show({
+        controller: DialogController,
+        templateUrl: 'dialog1.html',
+        parent: angular.element(document.body),
+        targetEvent: ev,
+        clickOutsideToClose:true,
+        fullscreen: useFullScreen
+      });
+      
+      $scope.$watch(function() {
+        return $mdMedia('xs') || $mdMedia('sm');
+      }, function(wantsFullScreen) {
+        $scope.customFullscreen = (wantsFullScreen === true);
+      });
+    };
 
 // UPCOMING EVENTS LIST
     $scope.events = [{
@@ -58,7 +72,6 @@ angular.module('MyApp', ['ngMaterial'])
       linktext: "Click for Details",
       linkaddress: "http://events.teamexponent.com"
     }];
-
 
 // ORGANIZER
     var imageOrganizer = 'images/katy4.jpg';
@@ -72,7 +85,6 @@ angular.module('MyApp', ['ngMaterial'])
       instaaddress: "http://www.instagram.com/katykasmai",
       linkedinaddress: "http://www.linkedin.com/in/katykasmai"
     }];
-
 
 // SPONSORS
     var imageSponsor1 = 'images/grand-central-tech-logo.png';
@@ -88,22 +100,23 @@ angular.module('MyApp', ['ngMaterial'])
       sponsor3name: "NYCEDC",
     }];
 
+})
 
-  })
-  .controller('LeftCtrl', function ($scope, $timeout, $mdSidenav, $log) {
-    $scope.close = function () {
-      $mdSidenav('left').close()
-        .then(function () {
-          $log.debug("close LEFT is done");
-        });
+.controller('LeftCtrl', function ($scope, $timeout, $mdSidenav, $log) {
+  $scope.close = function () {
+    $mdSidenav('left').close()
+      .then(function () {
+        $log.debug("close LEFT is done");
+      });
+  };
+})
 
-    };
-  })
-  .controller('RightCtrl', function ($scope, $timeout, $mdSidenav, $log) {
-    $scope.close = function () {
-      $mdSidenav('right').close()
-        .then(function () {
-          $log.debug("close RIGHT is done");
-        });
-    };
-  });
+.controller('RightCtrl', function ($scope, $timeout, $mdSidenav, $log) {
+  $scope.close = function () {
+    $mdSidenav('right').close()
+      .then(function () {
+        $log.debug("close RIGHT is done");
+      });
+  };
+});
+
