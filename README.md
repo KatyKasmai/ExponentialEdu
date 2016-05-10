@@ -1,9 +1,9 @@
 # Exponential Education (#10xEdu)
 
 #### Intro
->Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building through 10x Moonshot thinking and projects. The curriculum is centered around Moonshot Sprints, which encourages children to realize and build 10x solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through 10x thinking and Moonshot Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
+>Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building through 10x thinking and projects. The curriculum is centered around Exponential Sprints, which encourages children to realize and build 10x solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through 10x thinking and Exponential Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
 
->*We are currently in the development and pilot stage and the content is draft. We are working with schools and programs in New York City to pilot and implement, starting with 10x Moonshot Sprints (developed by [Team Exponent](http://TeamExponent.com))*.
+>*We are currently in the development and pilot stage and the content is draft. We are working with schools and programs in New York City to pilot and implement, starting with Exponential Sprints (developed by [Team Exponent](http://TeamExponent.com))*.
 
 >*Content here is mirrored from*: [http://doc.10xEducation.org](http://doc.10xEducation.org)
 
@@ -11,12 +11,12 @@
 
 >*Sign-up for updates via mailing list*: [http://eepurl.com/bLN9xD](http://eepurl.com/bLN9xD)
 
->*Related article*: [_"Kids can build our most impactful 10x Moonshots"_] (https://medium.com/@katykasmai/kids-can-build-our-most-impactful-10x-moonshots-5af1480ee7f8#.1ceoo3av3)
+>*Related article*: [_"Kids can build our most impactful 10x solutions"_] (https://medium.com/@katykasmai/kids-can-build-our-most-impactful-10x-moonshots-5af1480ee7f8#.1ceoo3av3)
 
->## Why 10x Education?
+>## Why Exponential Education?
 The nature of work, jobs, life and our plant has changed significantly since the standard schedule and curriculum of our education system was first conceptualized. Yet we continue to adopt the same model in our public schools despite our changing needs. As a result, many students are not prepared to face the challenges of our world and are leaving high schools without a sense of who they are and what they are capable of accomplishing.
 
->The 10x Education model is a holistic approach to learning. While project-based, 10x Education encourages children to realize and work on problems they are passionate about and want to positively impact. This means that we don’t ask children _“what do you want to be when you grow up”_, but rather _“what problem do you want to solve and what do you want to build now”_. 
+>The Exponential Education model is a holistic approach to learning. While project-based, Exponential Education encourages children to realize and work on problems they are passionate about and want to positively impact. This means that we don’t ask children _“what do you want to be when you grow up”_, but rather _“what problem do you want to solve and what do you want to build now”_. 
 
 
 ## Vision, Mission & Goals
@@ -34,7 +34,7 @@ To shift the educational curriculum from one that prepares children for jobs to 
 
 ## Principles
 
-- Start with a 10x Moonshot Sprint (see Appendix: Moonshot Sprint).
+- Start with a Exponential Sprint (see Appendix: Exponential Sprint).
 - Think 10x but then break the problem down into milestones and a pilot project.
 - Pursue solving problems that you are passionate about.
 - You must fail often and fail fast.
@@ -52,17 +52,17 @@ To shift the educational curriculum from one that prepares children for jobs to 
 
 There is a lot of emphasis on ensuring the child is pursuing problem areas and solutions they are passionate about because 10x solutions require patience and perseverance, which can only come from a place of passion. If we find the child is giving up on the pursuit early on, then it is most likely that this was not a problem/solution they were truly passionate about, and the child requires additional guidance in discovering other options. 
 
-**Ideate solutions**: Once the student has selected a problem area that they care about, the teacher guides the children through a Moonshot Sprint that will help them ideate and discover potential 10x solutions individually. Children that are working on related problem areas should be encouraged (but not forced) to collaborate and work on a project together.
+**Ideate solutions**: Once the student has selected a problem area that they care about, the teacher guides the children through an Exponential Sprint that will help them ideate and discover potential 10x solutions individually. Children that are working on related problem areas should be encouraged (but not forced) to collaborate and work on a project together.
 
-There is a lot of emphasis on ensuring the child is pursuing a 10x Moonshot solution. Moonshots and 10x thinking are themselves a source of energy and excitement, and they tend to attract a greater force of pursuit. As we get older, we start to feel discouraged from pursuing audacious and radical solutions, but children are unbridled and Exponential Education aims to cultivate and nurture this important quality and mindset. 
+There is a lot of emphasis on ensuring the child is pursuing a 10x solution. 10x thinking is itself a source of energy and excitement, and they tend to attract a greater force of pursuit. As we get older, we start to feel discouraged from pursuing audacious and radical solutions, but children are unbridled and Exponential Education aims to cultivate and nurture this important quality and mindset. 
 
-**Select a 10x project path**: The Moonshot Sprint will guide students in ensuring that their problem solution and project are at a 10x level or greater. Once a final project vision is established, teachers guide the students into breaking the problem down into milestones and an initial pilot. The pilot is what the student will spend the rest of the academic year prototyping.
+**Select a 10x project path**: The Exponential Sprint will guide students in ensuring that their problem solution and project are at a 10x level or greater. Once a final project vision is established, teachers guide the students into breaking the problem down into milestones and an initial pilot. The pilot is what the student will spend the rest of the academic year prototyping.
 
 **Build a pilot of the 10x project**: Each student will create a project plan for their 10x project pilot. The project plan will include a list of materials needed and estimated costs, and will demonstrate the intention and use of each item. The 10x project and pilot plan can then be presented to parents and the local community through a "pitch" event where the student will demonstrate their intended value and impact in order to receive constructive feedback and attract "investor" funding. Collected funds can be used by the students to purchase the materials for their pilot project.
 
-## Appendix: Moonshot Sprint
+## Appendix: Exponential Sprint
 
-See [Moonshot Sprint Guide](https://docs.google.com/document/d/1IX6aQ1SFInw0yHgEpnhaeYjidnQrfdjOx5cmiWS5nfQ/edit#)
+See [Exponential Sprint Guide](https://docs.google.com/document/d/1IX6aQ1SFInw0yHgEpnhaeYjidnQrfdjOx5cmiWS5nfQ/edit#)
 
 
 ## Appendix: Makerspace
