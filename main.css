@@ -216,23 +216,37 @@ md-input-container .md-input {
   color: #FF9100;
 }
 
-
 .introtext {
 	text-align:center;
-  width: 100%;
+  width: 350px;
 
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
   margin-top:auto;
   margin-bottom:auto;
 
 	font-family: 'RobotoDraft';
-	font-size:60px;
-	font-weight:100;
 	color: #fff;
 	z-index: 9;
-  background: rgba(0,0,0, 0.2);
+  background: rgba(0,50,99, 0.75);
 	padding: 5px 5px 5px 5px;
+}
+
+.introtext h1 {
+  text-align:left;
+  padding-left:20px;
+  margin-bottom:0;
+  margin-top:0;
+  font-size: 40px;
+  font-weight:400;
+}
+
+.introtext h2 {
+  text-align:left;
+  padding-left:20px;
+  margin-bottom:0;
+  margin-top:5px;
+  font-size: 20px;
+  font-weight:300;
 }
 
 .whatwedoTable {
