@@ -113,7 +113,7 @@
 .material-icons.md-light { color: rgba(255, 255, 255, 1); }
 .material-icons.orange600 { color: #FB8C00; }
 .material-icons.blue600 { color: #003263; }
-.material-icons.md-48 { font-size: 48px; }
+.material-icons.md-36 { font-size: 36px; }
 
 h1,h2,h3,h4,h5,h6 { 
   font-weight: 200; 
@@ -371,6 +371,63 @@ md-input-container .md-input {
   color: #00BCD4;
 }
 
+
+/*Dialog*/
+
+.lg-dialog {
+  min-width:100%;
+  min-height:100%;
+}
+
+.timelineDiv {
+  width: 100%;
+  background-color: #003263;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+
+  color: #fff;
+  text-align: center;
+  margin-top:-25px;
+  margin-left: -25px;
+}
+
+.timelineDivTable {
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timelineTr {
+  text-align:center;
+  color:#fff;
+  font-size:14px;
+  font-weight:300;
+  padding:10px;
+}
+
+.timelineTrIcons td{
+  text-align:center;
+  padding:10px;
+  font-size:14px;
+}
+
+.timelineTrcontent {
+  background-color:#fff;
+  height:400px;
+}
+
+.timelineTdcontent {
+  padding-top:15px;
+  padding-left:30px;
+  padding-right:30px
+  padding-bottom:5px;
+}
+
+.gettingsetupTable {
+  width:100%;
+}
  
  /*.ourteam {*/
 /*  min-width:100px;*/
