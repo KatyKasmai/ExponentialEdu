@@ -42,6 +42,8 @@ angular.module('MyApp', ['ngMaterial'])
       $scope.answer = function(answer) {
         $mdDialog.hide(answer);
       };
+      
+      $scope.tab =1; //show Div 1 by default in timelineDiv
     }
 
 // DIALOGS
