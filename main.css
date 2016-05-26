@@ -428,6 +428,19 @@ md-input-container .md-input {
 .gettingsetupTable {
   width:100%;
 }
+
+.whatis10xTable td{
+  padding:10px;
+}
+.whatis10xTable h2 {
+  text-align:left;
+  padding-left:20px;
+  margin-bottom:0;
+  margin-top:5px;
+  font-size: 20px;
+  font-weight:300;
+}
+
  
  /*.ourteam {*/
 /*  min-width:100px;*/
