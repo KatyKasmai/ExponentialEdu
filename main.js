@@ -69,7 +69,7 @@ angular.module('MyApp', ['ngMaterial'])
       var useFullScreen = ($mdMedia('sm') || $mdMedia('xs'))  && $scope.customFullscreen;
       $mdDialog.show({
         controller: DialogController,
-        templateUrl: 'dialog-pack2.html',
+        templateUrl: 'dialog-seeit.html',
         parent: angular.element(document.body),
         targetEvent: ev,
         clickOutsideToClose:true,
