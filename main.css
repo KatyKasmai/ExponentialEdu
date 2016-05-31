@@ -441,6 +441,10 @@ md-input-container .md-input {
   font-weight:300;
 }
 
+.getteamsTable td{
+  padding:10px;
+}
+
  
  /*.ourteam {*/
 /*  min-width:100px;*/
