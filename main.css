@@ -176,10 +176,10 @@ md-input-container .md-input {
 .top-menu {
   position: absolute;
   margin-top:-45px;
-  margin-left:750px;
+  margin-left:700px;
 
 	font-family: 'RobotoDraft';
-	font-weight:100;
+	font-weight:300;
 	font-size:18px;
 	z-index: 9;
 }
@@ -189,7 +189,7 @@ md-input-container .md-input {
 }
 
 .top-menu td {
-  padding: 0 20px 0 20px;
+  min-width:130px;
 }
 
 .top-menu ul {
