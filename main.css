@@ -277,6 +277,19 @@ md-input-container .md-input {
   text-align:center;
 }
 
+.seekidswork td {
+  text-align:justify;
+  padding-top:0px;
+  padding-right:0px;
+  padding-left:0px;
+  background-color: #FF9100;
+  color: #fff;
+}
+
+.seekidswork a {
+  color: #fff;
+}
+
 .pickclasspackageTitle {
 	font-family: 'RobotoDraft';
   font-weight:100;
