@@ -138,6 +138,14 @@ body{
 	height: 100%
 }
 
+input {
+  padding:8px;
+  display:block;
+  border:none;
+  border-bottom:1px solid #808080;
+  width:100%
+}
+
 md-input-container.md-icon-float > label {
   text-align:center;
   position:relative;
@@ -392,6 +400,11 @@ md-input-container .md-input {
   min-height:100%;
 }
 
+.navi {
+  background-color: #fff;
+  text-align:right;
+}
+
 .timelineDiv {
   width: 100%;
   background-color: #003263;
@@ -429,6 +442,9 @@ md-input-container .md-input {
 .timelineTrcontent {
   background-color:#fff;
   height:400px;
+  width:100%;
+
+  
 }
 
 .timelineTdcontent {
