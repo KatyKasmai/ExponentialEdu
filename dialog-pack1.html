@@ -2,7 +2,7 @@
   <form>
     <md-toolbar>
       <div class="md-toolbar-tools">
-        <a href="http://exponentialedu.org"><img src="images/exponentialeducation-logo-txt-white-1550x.png" alt="logo" width="300" border=0></a>
+        <a href="http://exponentialedu.org"><img src="images/exponentialeducation-logo-txt-white-1560x.png" alt="logo" width="300" border=0></a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h2>One Class Package</h2>
         <span flex></span>
         <md-button class="md-icon-button" ng-click="cancel()">
@@ -214,14 +214,49 @@
                   Details to follow
                 </div>                
 
+                <!--navigation buttons-->
+                <div class="navi"><i class="material-icons md-36 orange600" ng-click="tab=tab-1" ng-show="tab!=1">keyboard_arrow_left</i> <i class="material-icons md-36 orange600" ng-click="tab=tab+1" ng-show="tab!=10">keyboard_arrow_right</i></div>
+
               </td>
             </tr>
           </table>
           
-          <div><i class="material-icons md-36 orange600" ng-click="tab=tab-1" ng-show="tab!=1">keyboard_arrow_left</i> <i class="material-icons md-36 orange600" ng-click="tab=tab+1" ng-show="tab!=10">keyboard_arrow_right</i></div>
+          <div>
+            <md-toolbar class="md-primary">
+              <section class="subscribe">
+                <form role="form" action="http://10xEducation.us3.list-manage.com/subscribe/post?u=99aaf52f968afebd623b2dfc9&amp;id=ce51be528e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                  <table><tr>
+                      <td class="subscribeTD1">
+                        <md-content md-theme="docs-dark">
+                          <!--<md-input-container>-->
+                            <input type="email" class="form-control" placeholder="enter email for updates" required value="" name="EMAIL" >
+                          <!--</md-input-container>-->
+                        </md-content>
+                      </td>
+                      <td><md-button class="md-raised" type="submit" id="mc-subscribe" value="Subscribe" name="subscribe">Get Updates</md-button>
+                       </td>
+                  </tr></table>
+                </form>
+              </section>
+            </md-toolbar>
+          </div>
+      
+          <div layout="column" class="footer">
+            <md-toolbar class="md-accent">
+                <section style="padding-bottom: 15px; padding-top: 25px;">
+                  <ul class="social">
+                    <li><a href="https://twitter.com/teamexponent" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://www.facebook.com/exponentialedu" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                  </ul>
+                </section>
+                <section>
+                  <h5 class="md-flex">Copyright 2016 Team Exponent, Inc. - All Rights Reserved</h5>
+                </section>
+            </md-toolbar>
+          </div>
+
 
         </div>
-        
       </div>
     </md-dialog-content>
 
