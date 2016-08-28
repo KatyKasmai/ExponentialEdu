@@ -183,13 +183,13 @@ md-input-container .md-input {
 
 .top-menu {
   position: absolute;
-  margin-top:-45px;
-  margin-left:700px;
-
-	font-family: 'RobotoDraft';
-	font-weight:300;
-	font-size:18px;
-	z-index: 9;
+  margin-top: 35px;
+  left: 50%;
+  font-family: 'RobotoDraft';
+  font-weight: 300;
+  font-size: 18px;
+  z-index: 9;
+  max-width: 460px;
 }
 
 .top-menu a{
@@ -197,7 +197,7 @@ md-input-container .md-input {
 }
 
 .top-menu td {
-  min-width:130px;
+  min-width:110px;
 }
 
 .top-menu ul {
