@@ -1,0 +1,491 @@
+/* BEGIN Thin */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Thin/RobotoDraft-Thin.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Thin/RobotoDraft-Thin.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Thin/RobotoDraft-Thin.ttf?v=1.0.0") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+/* END Thin */
+/* BEGIN Light */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Light/RobotoDraft-Light.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Light/RobotoDraft-Light.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Light/RobotoDraft-Light.ttf?v=1.0.0") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+/* END Light */
+/* BEGIN Regular */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Regular/RobotoDraft-Regular.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Regular/RobotoDraft-Regular.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Regular/RobotoDraft-Regular.ttf?v=1.0.0") format("truetype");
+  font-weight: 400;
+  font-style: normal; }
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Regular/RobotoDraft-Regular.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Regular/RobotoDraft-Regular.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Regular/RobotoDraft-Regular.ttf?v=1.0.0") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+/* END Regular */
+/* BEGIN Italic */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Italic/RobotoDraft-Italic.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Italic/RobotoDraft-Italic.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Italic/RobotoDraft-Italic.ttf?v=1.0.0") format("truetype");
+  font-weight: 400;
+  font-style: italic; }
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Italic/RobotoDraft-Italic.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Italic/RobotoDraft-Italic.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Italic/RobotoDraft-Italic.ttf?v=1.0.0") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+/* END Italic */
+/* BEGIN Medium */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Medium/RobotoDraft-Medium.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Medium/RobotoDraft-Medium.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Medium/RobotoDraft-Medium.ttf?v=1.0.0") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+/* END Medium */
+/* BEGIN Bold */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Bold/RobotoDraft-Bold.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Bold/RobotoDraft-Bold.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Bold/RobotoDraft-Bold.ttf?v=1.0.0") format("truetype");
+  font-weight: 700;
+  font-style: normal; }
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Bold/RobotoDraft-Bold.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Bold/RobotoDraft-Bold.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Bold/RobotoDraft-Bold.ttf?v=1.0.0") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+/* END Bold */
+/* BEGIN Bold Italic */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/BoldItalic/RobotoDraft-BoldItalic.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/BoldItalic/RobotoDraft-BoldItalic.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/BoldItalic/RobotoDraft-BoldItalic.ttf?v=1.0.0") format("truetype");
+  font-weight: 700;
+  font-style: italic; }
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/BoldItalic/RobotoDraft-BoldItalic.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/BoldItalic/RobotoDraft-BoldItalic.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/BoldItalic/RobotoDraft-BoldItalic.ttf?v=1.0.0") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+/* END Bold Italic */
+/* BEGIN Black */
+@font-face {
+  font-family: RobotoDraft;
+  src: url("https://fontfacekit.github.io/robotodraft/fonts/Black/RobotoDraft-Black.woff2?v=1.0.0") format("woff2"), url("https://fontfacekit.github.io/robotodraft/fonts/Black/RobotoDraft-Black.woff?v=1.0.0") format("woff"), url("https://fontfacekit.github.io/robotodraft/fonts/Black/RobotoDraft-Black.ttf?v=1.0.0") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+/* END Black */
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'),
+       local('MaterialIcons-Regular');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  /*color: #888; */
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.orange600 { color: #FB8C00; }
+.material-icons.blue600 { color: #003263; }
+.material-icons.md-36 { font-size: 36px; }
+
+h1,h2,h3,h4,h5,h6 { 
+  font-weight: 200; 
+}
+
+a { color: #00BCD4;
+    text-decoration: none;
+   -webkit-transition: all .8s ease;
+    transition: all .8s ease;
+}
+
+a:hover {
+  color: #EF6C00;
+  text-decoration: none;
+}
+
+a:focus { outline: none; }
+
+
+body{
+	width: 100%;
+	height: 100%
+}
+
+input {
+  padding:8px;
+  display:block;
+  border:none;
+  border-bottom:1px solid #808080;
+  width:100%
+}
+
+md-input-container.md-icon-float > label {
+  text-align:center;
+  position:relative;
+  margin-left:0;
+}
+
+md-input-container .md-input {
+  color:#fff;
+  text-align:center;
+}
+
+
+.main {
+  background: url(images/bg.jpg) center center no-repeat;
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+/*.overlay {*/
+/*  position: absolute;*/
+/*  width: 50%;*/
+/*  height: 50%;*/
+/*  background: rgba(27, 32, 38, 0.5);*/
+/*  top: 0;*/
+/*}*/
+
+.logo {
+  position: absolute;
+  margin-left:40px;
+  margin-top:10px;
+
+  z-index: 9;
+}
+
+.top-menu {
+  position: absolute;
+  margin-top: 35px;
+  left: 50%;
+  font-family: 'RobotoDraft';
+  font-weight: 300;
+  font-size: 18px;
+  z-index: 9;
+  max-width: 460px;
+}
+
+.top-menu a{
+	color: #fff;
+}
+
+.top-menu td {
+  min-width:110px;
+}
+
+.top-menu ul {
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  -webkit-padding-start: 0px;
+}
+
+.top-social li {
+  display: inline-block;
+  padding-right: .8em;
+}
+
+.top-menu a {
+  display: block;
+  color: #fff;
+  font-size: 20px;
+  font-weight:100;
+  -webkit-transition: all .8s ease;
+  transition: all .8s ease;
+}
+
+.top-menu a:hover {
+  color: #FF9100;
+}
+
+.introtext {
+	text-align:center;
+  width: 350px;
+
+  margin-left:0;
+  margin-top:auto;
+  margin-bottom:auto;
+
+	font-family: 'RobotoDraft';
+	color: #fff;
+	z-index: 9;
+  background: rgba(0,50,99, 0.75);
+	padding: 5px 5px 5px 5px;
+}
+
+.introtext h1 {
+  text-align:left;
+  padding-left:20px;
+  margin-bottom:0;
+  margin-top:0;
+  font-size: 40px;
+  font-weight:400;
+}
+
+.introtext h2 {
+  text-align:left;
+  padding-left:20px;
+  margin-bottom:0;
+  margin-top:5px;
+  font-size: 20px;
+  font-weight:300;
+}
+
+.whatwedoTable {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.whatwedoTable td {
+  text-align:justify;
+  padding-top:10px;
+  padding-right:50px;
+  padding-left:50px;
+  line-height:150%;
+  color: #616161;
+}
+
+.whatwedoTableTitle {
+  text-align:left;
+	font-family: 'RobotoDraft';
+  font-size:20px;
+  font-weight:600;
+}
+
+.pickclasspackageDiv {
+  background-color: #003263;
+  padding:30px;
+  color: #fff;
+  text-align:center;
+}
+
+.seekidswork td {
+  text-align:justify;
+  padding-top:0px;
+  padding-right:0px;
+  padding-left:0px;
+  background-color: #FF9100;
+  color: #fff;
+}
+
+.seekidswork a {
+  color: #fff;
+}
+
+.pickclasspackageTitle {
+	font-family: 'RobotoDraft';
+  font-weight:100;
+  font-size:30px;
+}
+.pickclasspackageTable {
+  margin-left:auto;
+  margin-right:auto;
+
+  padding:20px;
+  border-spacing: 20px;
+  text-align:center;
+  height:350px;
+}
+
+.pickclasspackageTable td {
+  background-color: #FF9100;
+  color: #fff;
+  font-size:90px;
+  font-weight:800;
+  width:250px;
+}
+
+.pickclasspackageDiv a {
+  color:#fff;
+  text-decoration: none;
+ -webkit-transition: all .8s ease;
+  transition: all .8s ease;
+}
+
+.pickclasspackageDiv a:hover {
+  color: #00BCD4;
+  text-decoration: none;
+}
+
+.moreinfo {
+  margin-left:auto; 
+  margin-right:auto; 
+  text-align:center;
+}
+
+.moreinfo td {
+  width:50%;
+  padding:20px;
+}
+
+.moreinfo h1 {
+  font-size:50px;
+  font-weight:100;
+}
+
+.subscribe {
+  position: relative;
+  display: inline-block;
+  margin-left:auto; 
+  margin-right:auto; 
+  text-align:center;
+}
+
+.subscribe td{
+  margin-left:auto; 
+  margin-right:auto; 
+  text-align:center;
+}
+
+.subscribeTD1 {
+  width:350px;
+  color:#fff;
+}
+
+.footer {
+  margin-left:auto; 
+  margin-right:auto; 
+  text-align:center;
+  
+}
+
+.social li {
+  display: inline-block;
+  padding-right: .8em;
+}
+
+.social li a {
+  display: block;
+  color: #616161;
+  font-size: 50px;
+  -webkit-transition: all .8s ease;
+  transition: all .8s ease;
+}
+
+.social li a:hover {
+  color: #00BCD4;
+}
+
+
+/*Dialog*/
+
+.lg-dialog {
+  min-width:100%;
+  min-height:100%;
+}
+
+.navi {
+  background-color: #fff;
+  text-align:right;
+}
+
+.timelineDiv {
+  width: 100%;
+  background-color: #003263;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+
+  color: #fff;
+  text-align: center;
+  margin-top:-25px;
+  margin-left: -25px;
+}
+
+.timelineDivTable {
+  width:100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timelineTr {
+  text-align:center;
+  color:#fff;
+  font-size:14px;
+  font-weight:300;
+  padding:10px;
+}
+
+.timelineTrIcons td{
+  text-align:center;
+  padding:10px;
+  font-size:14px;
+}
+
+.timelineTrcontent {
+  background-color:#fff;
+  height:400px;
+  width:100%;
+
+  
+}
+
+.timelineTdcontent {
+  padding-top:15px;
+  padding-left:30px;
+  padding-right:30px
+  padding-bottom:5px;
+}
+
+.gettingsetupTable {
+  width:100%;
+}
+
+.whatis10xTable td{
+  padding:10px;
+}
+.whatis10xTable h2 {
+  text-align:left;
+  padding-left:20px;
+  margin-bottom:0;
+  margin-top:5px;
+  font-size: 20px;
+  font-weight:300;
+}
+
+.getteamsTable td{
+  padding:10px;
+}
+
+ 
+ /*.ourteam {*/
+/*  min-width:100px;*/
+/*  max-width:350px;*/
+/*  text-align:center;*/
+/*  display:inline-block;*/
+/*}*/
+
+/*.face {*/
+/*  border-radius:100px;*/
+/*  margin-left:auto;*/
+/*  margin-right:auto;*/
+/*}*/
+
+
