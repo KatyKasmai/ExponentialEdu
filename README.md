@@ -5,7 +5,7 @@
 
 >*We are currently in the development and pilot stage and the content is draft. We are working with schools and programs in New York City to pilot and implement, starting with Exponential Sprints (developed by [Team Exponent](http://TeamExponent.com))*.
 
->*Content here is mirrored from*: [http://doc.ExponentialEdu.org](http://doc.ExponentialEdu.org)
+>*Content here is mirrored from*: [http://doc.ExponentialEdu.org](https://docs.google.com/document/d/1GDMB6QZvINxRpV8H4o0VjkfAWVEDlhOno_6dmnhdscs/edit?usp=sharing)
 
 >*Slide Deck is here*: [http://deck.ExponentialEdu.org](http://deck.ExponentialEdu.org)
 
