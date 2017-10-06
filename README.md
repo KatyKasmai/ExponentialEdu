@@ -1,13 +1,13 @@
 # Exponential Education (#10xEdu)
 
 #### Intro
->Exponential Education (10xEducation.org) *is an open source education framework and curriculum for learning, solving and building through 10x thinking and projects. The curriculum is centered around Exponential Sprints, which encourages children to realize and build 10x solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through 10x thinking and Exponential Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
+>Exponential Education (ExponentialEdu.org) *is an open source education framework and curriculum for learning, solving and building through 10x thinking and projects. The curriculum is centered around Exponential Sprints, which encourages children to realize and build 10x solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through 10x thinking and Exponential Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
 
 >*We are currently in the development and pilot stage and the content is draft. We are working with schools and programs in New York City to pilot and implement, starting with Exponential Sprints (developed by [Team Exponent](http://TeamExponent.com))*.
 
->*Content here is mirrored from*: [http://doc.10xEducation.org](http://doc.10xEducation.org)
+>*Content here is mirrored from*: [http://doc.ExponentialEdu.org](https://docs.google.com/document/d/1GDMB6QZvINxRpV8H4o0VjkfAWVEDlhOno_6dmnhdscs/edit?usp=sharing)
 
->*Slide Deck is here*: [http://deck.10xeducation.org](http://deck.10xeducation.org)
+>*Slide Deck is here*: [http://deck.ExponentialEdu.org](http://deck.ExponentialEdu.org)
 
 >*Sign-up for updates via mailing list*: [http://eepurl.com/bLN9xD](http://eepurl.com/bLN9xD)
 
