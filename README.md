@@ -1,7 +1,7 @@
 # Exponential Education (#10xEdu)
 
 #### Intro
->Exponential Education *is an open source education program for learning, solving and building through moonshot thinking and projects. The curriculum is centered around Moonshot Sprints, which encourages children to realize and build moonshot solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through moonshot thinking and Moonshot Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
+>Exponential Education *is an open source education program for learning, solving and building through moonshot thinking and projects. The program is centered around Moonshot Sprints, which encourages children to realize and build moonshot solutions to some of humanity's most difficult challenges. The focus on uncovering the child's passions and interests, and helping them acquire the skills to solve challenging problems through moonshot thinking and Moonshot Sprints helps us to shift away from asking children _“what do you want to be when you grow up”_ to _“what problem do you want to solve and what do you want to build now”_.*
 
 >*Content here is mirrored from*:(https://docs.google.com/document/d/1GDMB6QZvINxRpV8H4o0VjkfAWVEDlhOno_6dmnhdscs/edit?usp=sharing)
 
